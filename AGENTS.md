@@ -1,5 +1,5 @@
-<!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# Project notes
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
-<!-- END:nextjs-agent-rules -->
+This is a Next.js 15.3.9 (stable) App Router project using JavaScript and Tailwind CSS v4.
+
+Standard React 19 / Next.js App Router patterns apply — `"use client"` for components that use hooks like `useState`/`useEffect`, server components by default otherwise.
